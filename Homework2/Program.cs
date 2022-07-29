@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Задача 34 ");
+﻿Console.WriteLine("Задача 36 ");
 Console.WriteLine(".......................................................... ");
 
 Console.WriteLine("Введите размер массива: ");
